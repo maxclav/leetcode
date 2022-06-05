@@ -1,4 +1,4 @@
-## Leetcode Solutions (WIP)
+# Leetcode Solutions (WIP)
 
 Some of my solutions to Leetcode issues in Go.
 
