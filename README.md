@@ -1,8 +1,8 @@
-# Leetcode Solutions (WIP)
+## Leetcode Solutions (WIP)
 
 Some of my solutions to Leetcode issues in Go.
 
-## Patterns
+### Patterns
 
 - [Grind 75](./patterns/grind75/index.md)
 - [Blind 75](./patterns/blind75/index.md)
