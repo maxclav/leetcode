@@ -2,8 +2,10 @@
 
 Some of my solutions to Leetcode issues in Go.
 
-- [Grind75](./blind75/index.md)
-- [Blind75](./blind75/index.md)
-- [Grokking the Coding Interview](./grokking/index.md)
-- [Sean Prashad's List](./prashad/index.md)
+## Patterns
+
+- [Grind 75](./patterns/grind75/index.md)
+- [Blind 75](./patterns/blind75/index.md)
+- [Grokking the Coding Interview](./patterns/grokking/index.md)
+- [Sean Prashad's List](./patterns/prashad/index.md)
 
